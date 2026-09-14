@@ -1,6 +1,6 @@
 # mbdzau_python1
 
-Repositório com os exercícios e desafios de Python I realizados durante as aulas.
+Repositório com os exercícios e desafios de Python I realizados durante as aulas. @[Mente Binária](https://github.com/mentebinaria)
 
 ## Objetivo
 
