@@ -29,5 +29,5 @@ Os arquivos incluem exercícios sobre:
 
 ## Autor
 
-Carol
+Ana Caroline Santos
 
